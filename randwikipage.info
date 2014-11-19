@@ -1,0 +1,4 @@
+name = Random Wiki Page
+description = An example block displaying a random Wikipedia page
+core = 7.x
+configure = admin/config/content/randwikipage
